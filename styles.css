@@ -65,6 +65,8 @@ body{
 .container-languages{
   display: flex;
   justify-content: space-between;
+  /* Utiliser gap (column gap, row gap), enlever margins */
+  /* gap: 50px; */
 }
 .card-language{
   border: 1px #ccc solid;
